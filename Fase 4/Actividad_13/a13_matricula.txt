@@ -1,0 +1,43 @@
+Busqueda realizada: exploitation
+383.html
+243.html
+397.html
+269.html
+364.html
+241.html
+381.html
+244.html
+La ejecucion del programa fue: 48.331278800964355
+Busqueda realizada: hygiene
+206.html
+383.html
+043.html
+397.html
+270.html
+La ejecucion del programa fue: 11.013537883758545
+Busqueda realizada: exploitation
+383.html
+243.html
+397.html
+269.html
+364.html
+241.html
+381.html
+244.html
+La ejecucion del programa fue: 8.126304388046265
+Busqueda realizada: the
+043.html
+137.html
+027.html
+333.html
+282.html
+383.html
+279.html
+289.html
+390.html
+019.html
+La ejecucion del programa fue: 7.097203969955444
+Busqueda realizada: elephants
+medium.html
+   340.html
+La ejecucion del programa fue: 4.509450197219849
